@@ -11,7 +11,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import tkinter
-from tkinter import ttk  # Necessary in all but this trivial example.
+from tkinter import ttk  # Necessary in all but this trivial examp
 
 
 def main():
